@@ -17,4 +17,5 @@
 .project
 .classpath
 .DS_Store
-Thumbs.db
+# Maven build directory
+target/
